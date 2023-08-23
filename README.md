@@ -21,6 +21,7 @@ Clone this repo and install it to your browser as an extension.
 ## New Updates
 
 - Now you can use arrow keys
+- Press `👨‍👩‍👧‍👦` key to toggle (active/deactive) arrow keys
 
 ### - For Instructor Portal
 
