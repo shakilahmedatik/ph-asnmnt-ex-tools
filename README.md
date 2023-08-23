@@ -20,7 +20,7 @@ Clone this repo and install it to your browser as an extension.
 
 ## New Updates
 
-- Now you can yous arrow keys
+- Now you can use arrow keys
 
 ### - For Instructor Portal
 
